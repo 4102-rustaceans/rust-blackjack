@@ -1,6 +1,7 @@
 [package]
 name = "rust-blackjack"
 version = "0.1.0"
-authors = ["RJ Duane <git@rjd.io>"]
+authors = ["Richard Duane <rduane@uncc.edu>", "Luke Frazier <lfrazi18@uncc.edu>", "Seth Morris <smorri95@uncc.edu>"]
 
 [dependencies]
+rand = "0.4"
